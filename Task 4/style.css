@@ -27,3 +27,15 @@
   margin-top: 50px;
   color: #333;
 }
+.car{
+  text-align: center;
+  margin: 5px;
+  width: 600px;
+  height: 300px;
+  border: 1px solid black;
+  box-shadow: -2px 1px 20px 0px #0000002a;
+}
+.car > h1{
+  text-transform: uppercase;
+  text-align: center;
+}

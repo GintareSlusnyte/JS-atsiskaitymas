@@ -1,4 +1,5 @@
-[
+{
+  "cars": [
   {
     "brand": "Seat",
     "models": [
@@ -1062,4 +1063,4 @@
       "Roadster"
     ]
   }
-]
+]}
