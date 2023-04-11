@@ -10,3 +10,4 @@ const audi = {
   year: 2005,
   color: 'white'
 };
+console.log(Object.values(audi));
